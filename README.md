@@ -1,38 +1,36 @@
-# Hi, I'm Shreyasi Patil 
+# Hi, I'm Shreyasi Patil 👋
 
 ### AIML Student | Python | Java | Machine Learning | Web Development
 
 I'm an Artificial Intelligence & Machine Learning student interested in
 building practical applications in AI, software development and cybersecurity.
 
----
 
-##  Projects
+## 🚀 Projects
 
-###  CyberIntel — In Development
+### 🔐 CyberIntel — In Development
 AI-powered phishing email detection and email-header forensic analysis.
 
-**Working with:** Python | Pandas | Scikit-learn | Machine Learning
+**Tech:** Python | Pandas | Scikit-learn | Machine Learning
 
-Currently working on email-header analysis, feature extraction and
-machine-learning based classification.
+Currently developing email-header analysis, forensic feature extraction,
+and ML-based classification.
 
-###  Lumicode AI — In Development
-AI-powered code and repository intelligence platform designed to help
-developers understand, learn and test software code.
+### 💻 Lumicode AI — In Development
+AI-powered code and repository intelligence platform for understanding
+and learning from software code.
 
-**Working with:** Python | AI/ML | GitHub | AST
+**Tech:** Python | AI/ML | GitHub | AST
 
-Currently developing repository analysis and code-understanding features.
+Currently developing repository analysis and code-understanding capabilities.
 
-###  SafeHer — Under Modification
+### 🛡️ SafeHer — Under Modification
 Progressive Web Application focused on women's safety and emergency assistance.
 
 **Tech:** HTML | CSS | JavaScript | Node.js | Express.js | MySQL
 
-Currently improving and modifying existing features and functionality.
+Currently improving existing features and application functionality.
 
----
 
 ##  Technical Skills
 
@@ -50,14 +48,7 @@ Currently improving and modifying existing features and functionality.
 
 ---
 
-##  Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- Backend Development
-- Git & GitHub
-- AI-powered applications
-
+Currently Exploring: Advanced DSA • Machine Learning • Backend Development • AI Applications
 ---
 
 ## 🤝 Connect With Me
