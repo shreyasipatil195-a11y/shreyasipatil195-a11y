@@ -3,28 +3,34 @@
 ### AIML Student | Python | Java | Machine Learning | Web Development
 
 I'm an Artificial Intelligence & Machine Learning student interested in
-building practical software, machine learning and cybersecurity projects.
+building practical applications in AI, software development and cybersecurity.
 
 ---
 
-##  Featured Projects
+##  Projects
 
-###  CyberIntel
+###  CyberIntel — In Development
 AI-powered phishing email detection and email-header forensic analysis.
 
-**Tech:** Python | Pandas | Scikit-learn | Machine Learning
+**Working with:** Python | Pandas | Scikit-learn | Machine Learning
 
-### Lumicode AI
-AI-powered code and repository intelligence platform for understanding,
-learning and testing software code.
+Currently working on email-header analysis, feature extraction and
+machine-learning based classification.
 
-**Tech:** Python | AI/ML | GitHub | AST
+###  Lumicode AI — In Development
+AI-powered code and repository intelligence platform designed to help
+developers understand, learn and test software code.
 
-###  SafeHer
-Progressive Web Application focused on women's safety with SOS,
-location sharing and emergency assistance features.
+**Working with:** Python | AI/ML | GitHub | AST
+
+Currently developing repository analysis and code-understanding features.
+
+###  SafeHer — Under Modification
+Progressive Web Application focused on women's safety and emergency assistance.
 
 **Tech:** HTML | CSS | JavaScript | Node.js | Express.js | MySQL
+
+Currently improving and modifying existing features and functionality.
 
 ---
 
@@ -54,7 +60,6 @@ location sharing and emergency assistance features.
 
 ---
 
-##  Connect With Me
+## 🤝 Connect With Me
 
-LinkedIn • GitHub
--->
+[LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](YOUR_GITHUB_LINK)
