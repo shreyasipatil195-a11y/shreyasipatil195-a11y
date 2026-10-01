@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Shreyasi Patil 
 
-<!--
-**shreyasipatil195-a11y/shreyasipatil195-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AIML Student | Python | Java | Machine Learning | Web Development
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence & Machine Learning student interested in
+building practical software, machine learning and cybersecurity projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+##  Featured Projects
+
+###  CyberIntel
+AI-powered phishing email detection and email-header forensic analysis.
+
+**Tech:** Python | Pandas | Scikit-learn | Machine Learning
+
+### Lumicode AI
+AI-powered code and repository intelligence platform for understanding,
+learning and testing software code.
+
+**Tech:** Python | AI/ML | GitHub | AST
+
+###  SafeHer
+Progressive Web Application focused on women's safety with SOS,
+location sharing and emergency assistance features.
+
+**Tech:** HTML | CSS | JavaScript | Node.js | Express.js | MySQL
+
+---
+
+##  Technical Skills
+
+**Languages:** Python | Java | C | C++ | JavaScript | SQL
+
+**Core:** Data Structures & Algorithms | OOP | DBMS | Machine Learning
+
+**Web & Backend:** HTML | CSS | JavaScript | Node.js | Express.js
+
+**Database:** MySQL
+
+**ML/Data:** NumPy | Pandas | Scikit-learn
+
+**Tools:** Git | GitHub | VS Code
+
+---
+
+##  Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
+- Git & GitHub
+- AI-powered applications
+
+---
+
+##  Connect With Me
+
+LinkedIn • GitHub
 -->
